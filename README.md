@@ -4,7 +4,7 @@ This repository contains a collection of beginner-level Python projects and exer
 Projects include simple scripts, basic input/output operations, and foundational concepts.
 
 ## Contents
-- Day 1: Hello World and print statements
+- 1st: Hello World and print statements
 
 
 
